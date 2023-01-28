@@ -2974,7 +2974,7 @@
 	#button-up{
 		width: 60px;
 		height: 60px;
-		background-color: #4367b1;
+		background-color: #57aed3;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -2991,8 +2991,9 @@
 	}
 
 	#button-up:hover{
-		transform: scale(1.1);
-		border-color: black;
+		
+		color: #57aed3;
+		background-color: #ffffff;
 	}
 
   /* Footer */
@@ -3186,6 +3187,8 @@
 			}
 
 			#button-up{
+				width: 40px;
+				height: 40px;
 				bottom: 15px;
 				right: 15px;
 			}
