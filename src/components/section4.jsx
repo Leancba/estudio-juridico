@@ -9,8 +9,8 @@ export default function Section4(){
                 </header>
                 <p>este es un texto de ejemplo .</p>
                 <ul class="actions uniform">
-                    <li><a href="#" class="button special">este es un texto de ejemplo </a></li>
-                    <li><a href="#" class="button">este es un texto de ejemplo </a></li>
+                    <li><a href="/#" class="button special">este es un texto de ejemplo </a></li>
+                    <li><a href="/#" class="button">este es un texto de ejemplo </a></li>
                 </ul>
             </div>
         </section>
