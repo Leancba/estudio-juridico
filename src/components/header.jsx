@@ -14,7 +14,7 @@ export default function Header(){
     return( 
         <section id="header">
             <div class="inner">
-                <a href="/#"><img src={logo} alt="" width="120" height="120"/></a>
+                <a href="/#"><img src={logo} alt="" width="350" height="350"/></a>
                 <h1 data-aos="zoom-in" >Hola! <strong>bienvenidos</strong>, esta es una muestra<br />
                     del diseño web promocional. Opci&oacute;n 1.</h1>
                 <p data-aos="zoom-in" >
