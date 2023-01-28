@@ -50,7 +50,7 @@ export default function Footer(){
             </ul>
             <ul class="copyright">
                 <li>&copy; 2018 - Todos los derechos reservados.</li> <br/>
-                <a href="/#"><img src={logo} alt="¡Diseño de páginas web y mucho más!" width="120" height="120"/></a>
+                <a href="/#"><img src={logo} alt="" width="120" height="120"/></a>
             </ul>
         </section>
     )

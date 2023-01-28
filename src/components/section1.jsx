@@ -1,6 +1,9 @@
 import React from "react";
 import 'aos/dist/aos.css';
 
+import image from "../images/torre.jpg"
+
+
 export default function Section1(){
 
     
@@ -19,7 +22,7 @@ export default function Section1(){
                         </p>
                     </div>
                     <div data-aos="fade-left" class="6u$ 12u$(medium) important(medium)">
-                        <span class="image fit"><img src="https://tomasweb.com.ar/plantillas/promos/1/images/quienes-somos.PNG" alt="" /></span>
+                        <span class="image fit"><img src={image} alt="" /></span>
                     </div>
                 </div>
             </div>
