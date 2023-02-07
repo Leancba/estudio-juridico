@@ -7,30 +7,27 @@ export default function Section2(){
                 <div class="row 150%">
                     <div data-aos="fade-down" class="6u 12u$(medium)">
                         <ul class="major-icons">
-                            <li><span class="icon style1 major fa-code"></span></li>
-                            <li><span class="icon style2 major fa-bolt"></span></li>
-                            <li><span class="icon style3 major fa-camera-retro"></span></li>
-                            <li><span class="icon style4 major fa-cog"></span></li>
-                            <li><span class="icon style5 major fa-desktop"></span></li>
-                            <li><span class="icon style6 major fa-calendar"></span></li>
+                            <li><span class="icon style1 major fa-balance-scale "></span></li>
+                            <li><span class="icon style2 major fa-suitcase "></span></li>
+                            <li><span class="icon style3 major fa-gavel "></span></li>
+                            <li><span class="icon style4 major fa-bar-chart "></span></li>
+                            
                         </ul>
                     </div>
                     <div data-aos="fade-up" class="6u$ 12u$(medium)">
                         <header class="major">
-                            <h2>Este es un titulo <br />
-                                Este es un titulo </h2>
+                            <h2>Sobre nosotros</h2>
                         </header>
                         <p>
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
+                        Nuestro objetivo es posicionarnos como un equipo profesional de referencia en cada una de las áreas que desarrollamos
+                         a fin de asistir íntegramente a nuestros clientes y representar un beneficio directo en sus intereses, 
+                         ejerciendo la profesión con la debida ética, diligencia y responsabilidad.
                         </p>
                         <p>
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
-                        </p>
-                        <p>
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
+                         Ubicados en el centro de la ciudad de Córdoba atiende reclamos de toda la provincia. 
+                         En conjunto, nos especializamos en derecho laboral, civil y comercial.  
+                         Si necesita abogado en Córdoba, se encuentra en el sitio indicado, la experiencia y asesoramiento constante 
+                         hacen de un servicio diferente para su tranquilidad y hacer valer sus derechos.
                         </p>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../images/logo.png"
+import logo from "../images/abogadoz.png"
 
 export default function Footer(){
 
@@ -41,16 +41,9 @@ export default function Footer(){
             <div onClick={scrollUp} id='button-up' >
             <i class="icon alt fa-arrow-up"></i>
             </div>
-            <ul class="icons">
-                <li><a href="/#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="/#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-                <li><a href="/#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-                <li><a href="/#" class="icon alt fa-whatsapp"><span class="label">Whatsapp</span></a></li>
-                
-            </ul>
             <ul class="copyright">
-                <li>&copy; 2018 - Todos los derechos reservados.</li> <br/>
                 <a href="/#"><img src={logo} alt="" width="120" height="120"/></a>
+                <li>&copy; 2022 - Todos los derechos reservados.</li> <br/>
             </ul>
         </section>
     )

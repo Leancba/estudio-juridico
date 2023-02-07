@@ -1,7 +1,7 @@
 import React from "react";
 import 'aos/dist/aos.css';
 
-import image from "../images/torre.jpg"
+import portada from "../images/portada.jpg"
 
 
 export default function Section1(){
@@ -14,15 +14,15 @@ export default function Section1(){
                 <div class="row 150%">
                     <div data-aos="fade-right" class="6u 12u$(medium)">
                         <header class="major">
-                            <h2>Este es un titulo <br />
-                                Este es un titulo </h2>
+                            <h2>Nuestra Firma</h2>
                         </header>
                         <p>
-                            este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo este es un texto de ejemplo 
+                            
+Somos un equipo de profesionales altamente especializados, con basta experiencia en las distintas ramas del Derecho y sólidos fundamentos éticos, que trabajamos en forma integrada asumiendo el compromiso de brindar a nuestros clientes un servicio jurídico de excelencia.
                         </p>
                     </div>
                     <div data-aos="fade-left" class="6u$ 12u$(medium) important(medium)">
-                        <span class="image fit"><img src={image} alt="" /></span>
+                        <span class="image fit"><img src={portada} alt="" /></span>
                     </div>
                 </div>
             </div>
